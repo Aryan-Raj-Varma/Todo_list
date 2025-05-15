@@ -34,5 +34,6 @@ Run the program:
 $ ./todo_app
 
 Author:
+ARYAN RAJ VARMA
 -------
-Created for interview preparation. Demonstrates OOP, file handling, and basic data structures in C++.
+Demonstrates OOP, file handling, and basic data structures in C++.
